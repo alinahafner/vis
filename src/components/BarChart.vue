@@ -211,7 +211,6 @@ export default {
 <style>
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body {
-  /* font-family: 'PT Sans', sans-serif; */
   background-color: #eee;
 }
 
